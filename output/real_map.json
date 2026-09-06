@@ -1,0 +1,5426 @@
+[
+  {
+    "id": 0,
+    "type": "button",
+    "label": "All",
+    "bbox": [
+      51,
+      89,
+      25,
+      16
+    ],
+    "center": [
+      63,
+      97
+    ],
+    "interactable": true
+  },
+  {
+    "id": 1,
+    "type": "button",
+    "label": "a",
+    "bbox": [
+      1431,
+      664,
+      31,
+      13
+    ],
+    "center": [
+      1446,
+      670
+    ],
+    "interactable": true
+  },
+  {
+    "id": 2,
+    "type": "button",
+    "label": "\u2014\u2014\u2014",
+    "bbox": [
+      402,
+      408,
+      45,
+      9
+    ],
+    "center": [
+      424,
+      412
+    ],
+    "interactable": true
+  },
+  {
+    "id": 3,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      1165,
+      642,
+      42,
+      10
+    ],
+    "center": [
+      1186,
+      647
+    ],
+    "interactable": true
+  },
+  {
+    "id": 4,
+    "type": "unknown",
+    "label": "months",
+    "bbox": [
+      876,
+      154,
+      15,
+      28
+    ],
+    "center": [
+      883,
+      168
+    ],
+    "interactable": false
+  },
+  {
+    "id": 5,
+    "type": "input",
+    "label": "Dr",
+    "bbox": [
+      1140,
+      251,
+      24,
+      18
+    ],
+    "center": [
+      1152,
+      260
+    ],
+    "interactable": true
+  },
+  {
+    "id": 6,
+    "type": "button",
+    "label": "19%",
+    "bbox": [
+      217,
+      434,
+      30,
+      15
+    ],
+    "center": [
+      232,
+      441
+    ],
+    "interactable": true
+  },
+  {
+    "id": 7,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      388,
+      462,
+      13,
+      35
+    ],
+    "center": [
+      394,
+      479
+    ],
+    "interactable": false
+  },
+  {
+    "id": 8,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      388,
+      498,
+      19,
+      24
+    ],
+    "center": [
+      397,
+      510
+    ],
+    "interactable": false
+  },
+  {
+    "id": 9,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1781,
+      421,
+      19,
+      24
+    ],
+    "center": [
+      1790,
+      433
+    ],
+    "interactable": false
+  },
+  {
+    "id": 10,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      557,
+      385,
+      24,
+      19
+    ],
+    "center": [
+      569,
+      394
+    ],
+    "interactable": true
+  },
+  {
+    "id": 11,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1863,
+      404,
+      17,
+      27
+    ],
+    "center": [
+      1871,
+      417
+    ],
+    "interactable": false
+  },
+  {
+    "id": 12,
+    "type": "button",
+    "label": "a",
+    "bbox": [
+      1074,
+      132,
+      29,
+      16
+    ],
+    "center": [
+      1088,
+      140
+    ],
+    "interactable": true
+  },
+  {
+    "id": 13,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1123,
+      606,
+      15,
+      31
+    ],
+    "center": [
+      1130,
+      621
+    ],
+    "interactable": false
+  },
+  {
+    "id": 14,
+    "type": "unknown",
+    "label": "Shop",
+    "bbox": [
+      104,
+      161,
+      18,
+      26
+    ],
+    "center": [
+      113,
+      174
+    ],
+    "interactable": false
+  },
+  {
+    "id": 15,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      1050,
+      893,
+      34,
+      14
+    ],
+    "center": [
+      1067,
+      900
+    ],
+    "interactable": true
+  },
+  {
+    "id": 16,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      408,
+      465,
+      28,
+      17
+    ],
+    "center": [
+      422,
+      473
+    ],
+    "interactable": true
+  },
+  {
+    "id": 17,
+    "type": "button",
+    "label": "84%",
+    "bbox": [
+      215,
+      661,
+      32,
+      15
+    ],
+    "center": [
+      231,
+      668
+    ],
+    "interactable": true
+  },
+  {
+    "id": 18,
+    "type": "button",
+    "label": "56%",
+    "bbox": [
+      47,
+      661,
+      32,
+      15
+    ],
+    "center": [
+      63,
+      668
+    ],
+    "interactable": true
+  },
+  {
+    "id": 19,
+    "type": "button",
+    "label": "eT",
+    "bbox": [
+      1620,
+      510,
+      24,
+      20
+    ],
+    "center": [
+      1632,
+      520
+    ],
+    "interactable": true
+  },
+  {
+    "id": 20,
+    "type": "button",
+    "label": "31%",
+    "bbox": [
+      47,
+      434,
+      32,
+      15
+    ],
+    "center": [
+      63,
+      441
+    ],
+    "interactable": true
+  },
+  {
+    "id": 21,
+    "type": "button",
+    "label": "r ~ etal",
+    "bbox": [
+      1684,
+      417,
+      40,
+      12
+    ],
+    "center": [
+      1704,
+      423
+    ],
+    "interactable": true
+  },
+  {
+    "id": 22,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      246,
+      376,
+      12,
+      40
+    ],
+    "center": [
+      252,
+      396
+    ],
+    "interactable": false
+  },
+  {
+    "id": 23,
+    "type": "input",
+    "label": null,
+    "bbox": [
+      1196,
+      426,
+      23,
+      21
+    ],
+    "center": [
+      1207,
+      436
+    ],
+    "interactable": true
+  },
+  {
+    "id": 24,
+    "type": "button",
+    "label": "\u00a9",
+    "bbox": [
+      188,
+      29,
+      21,
+      23
+    ],
+    "center": [
+      198,
+      40
+    ],
+    "interactable": true
+  },
+  {
+    "id": 25,
+    "type": "input",
+    "label": "~~",
+    "bbox": [
+      1576,
+      439,
+      22,
+      22
+    ],
+    "center": [
+      1587,
+      450
+    ],
+    "interactable": true
+  },
+  {
+    "id": 26,
+    "type": "button",
+    "label": "*T&C",
+    "bbox": [
+      1504,
+      671,
+      35,
+      14
+    ],
+    "center": [
+      1521,
+      678
+    ],
+    "interactable": true
+  },
+  {
+    "id": 27,
+    "type": "button",
+    "label": "my",
+    "bbox": [
+      820,
+      881,
+      26,
+      19
+    ],
+    "center": [
+      833,
+      890
+    ],
+    "interactable": true
+  },
+  {
+    "id": 28,
+    "type": "unknown",
+    "label": "Up",
+    "bbox": [
+      1164,
+      161,
+      19,
+      26
+    ],
+    "center": [
+      1173,
+      174
+    ],
+    "interactable": false
+  },
+  {
+    "id": 29,
+    "type": "unknown",
+    "label": "popular",
+    "bbox": [
+      176,
+      161,
+      19,
+      26
+    ],
+    "center": [
+      185,
+      174
+    ],
+    "interactable": false
+  },
+  {
+    "id": 30,
+    "type": "unknown",
+    "label": "popular",
+    "bbox": [
+      132,
+      161,
+      19,
+      26
+    ],
+    "center": [
+      141,
+      174
+    ],
+    "interactable": false
+  },
+  {
+    "id": 31,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      672,
+      430,
+      55,
+      9
+    ],
+    "center": [
+      699,
+      434
+    ],
+    "interactable": false
+  },
+  {
+    "id": 32,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1903,
+      22,
+      3,
+      166
+    ],
+    "center": [
+      1904,
+      105
+    ],
+    "interactable": false
+  },
+  {
+    "id": 33,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      309,
+      374,
+      12,
+      42
+    ],
+    "center": [
+      315,
+      395
+    ],
+    "interactable": false
+  },
+  {
+    "id": 34,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1621,
+      154,
+      18,
+      28
+    ],
+    "center": [
+      1630,
+      168
+    ],
+    "interactable": false
+  },
+  {
+    "id": 35,
+    "type": "unknown",
+    "label": "7399",
+    "bbox": [
+      518,
+      154,
+      18,
+      28
+    ],
+    "center": [
+      527,
+      168
+    ],
+    "interactable": false
+  },
+  {
+    "id": 36,
+    "type": "unknown",
+    "label": "FREE",
+    "bbox": [
+      987,
+      153,
+      18,
+      28
+    ],
+    "center": [
+      996,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 37,
+    "type": "unknown",
+    "label": "FREE",
+    "bbox": [
+      942,
+      153,
+      18,
+      28
+    ],
+    "center": [
+      951,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 38,
+    "type": "unknown",
+    "label": "months",
+    "bbox": [
+      894,
+      153,
+      18,
+      28
+    ],
+    "center": [
+      903,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 39,
+    "type": "unknown",
+    "label": "Shop",
+    "bbox": [
+      60,
+      153,
+      18,
+      28
+    ],
+    "center": [
+      69,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 40,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1807,
+      563,
+      13,
+      39
+    ],
+    "center": [
+      1813,
+      582
+    ],
+    "interactable": false
+  },
+  {
+    "id": 41,
+    "type": "button",
+    "label": "37",
+    "bbox": [
+      629,
+      385,
+      30,
+      17
+    ],
+    "center": [
+      644,
+      393
+    ],
+    "interactable": true
+  },
+  {
+    "id": 42,
+    "type": "button",
+    "label": "Sell",
+    "bbox": [
+      298,
+      87,
+      30,
+      17
+    ],
+    "center": [
+      313,
+      95
+    ],
+    "interactable": true
+  },
+  {
+    "id": 43,
+    "type": "input",
+    "label": "ng",
+    "bbox": [
+      597,
+      755,
+      27,
+      19
+    ],
+    "center": [
+      610,
+      764
+    ],
+    "interactable": true
+  },
+  {
+    "id": 44,
+    "type": "input",
+    "label": "ng",
+    "bbox": [
+      1605,
+      754,
+      27,
+      19
+    ],
+    "center": [
+      1618,
+      763
+    ],
+    "interactable": true
+  },
+  {
+    "id": 45,
+    "type": "button",
+    "label": "amunet pry",
+    "bbox": [
+      428,
+      634,
+      43,
+      12
+    ],
+    "center": [
+      449,
+      640
+    ],
+    "interactable": true
+  },
+  {
+    "id": 46,
+    "type": "button",
+    "label": "arenas pay",
+    "bbox": [
+      1165,
+      629,
+      43,
+      12
+    ],
+    "center": [
+      1186,
+      635
+    ],
+    "interactable": true
+  },
+  {
+    "id": 47,
+    "type": "unknown",
+    "label": "deals",
+    "bbox": [
+      37,
+      195,
+      18,
+      29
+    ],
+    "center": [
+      46,
+      209
+    ],
+    "interactable": false
+  },
+  {
+    "id": 48,
+    "type": "unknown",
+    "label": "3",
+    "bbox": [
+      772,
+      153,
+      18,
+      29
+    ],
+    "center": [
+      781,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 49,
+    "type": "unknown",
+    "label": "7399",
+    "bbox": [
+      541,
+      153,
+      18,
+      29
+    ],
+    "center": [
+      550,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 50,
+    "type": "button",
+    "label": "sign",
+    "bbox": [
+      1561,
+      19,
+      29,
+      18
+    ],
+    "center": [
+      1575,
+      28
+    ],
+    "interactable": true
+  },
+  {
+    "id": 51,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      267,
+      272,
+      17,
+      31
+    ],
+    "center": [
+      275,
+      287
+    ],
+    "interactable": false
+  },
+  {
+    "id": 52,
+    "type": "button",
+    "label": "emazes poy",
+    "bbox": [
+      1530,
+      634,
+      44,
+      12
+    ],
+    "center": [
+      1552,
+      640
+    ],
+    "interactable": true
+  },
+  {
+    "id": 53,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1553,
+      154,
+      19,
+      28
+    ],
+    "center": [
+      1562,
+      168
+    ],
+    "interactable": false
+  },
+  {
+    "id": 54,
+    "type": "unknown",
+    "label": "FREE",
+    "bbox": [
+      1008,
+      153,
+      19,
+      28
+    ],
+    "center": [
+      1017,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 55,
+    "type": "button",
+    "label": "debts",
+    "bbox": [
+      783,
+      250,
+      32,
+      17
+    ],
+    "center": [
+      799,
+      258
+    ],
+    "interactable": true
+  },
+  {
+    "id": 56,
+    "type": "button",
+    "label": "~<",
+    "bbox": [
+      1595,
+      537,
+      25,
+      22
+    ],
+    "center": [
+      1607,
+      548
+    ],
+    "interactable": true
+  },
+  {
+    "id": 57,
+    "type": "unknown",
+    "label": "Under",
+    "bbox": [
+      450,
+      153,
+      19,
+      29
+    ],
+    "center": [
+      459,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 58,
+    "type": "unknown",
+    "label": "Shop",
+    "bbox": [
+      37,
+      153,
+      19,
+      29
+    ],
+    "center": [
+      46,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 59,
+    "type": "input",
+    "label": "\u2014",
+    "bbox": [
+      1433,
+      439,
+      46,
+      12
+    ],
+    "center": [
+      1456,
+      445
+    ],
+    "interactable": true
+  },
+  {
+    "id": 60,
+    "type": "button",
+    "label": "apply",
+    "bbox": [
+      1541,
+      672,
+      35,
+      16
+    ],
+    "center": [
+      1558,
+      680
+    ],
+    "interactable": true
+  },
+  {
+    "id": 61,
+    "type": "button",
+    "label": "apply",
+    "bbox": [
+      438,
+      672,
+      35,
+      16
+    ],
+    "center": [
+      455,
+      680
+    ],
+    "interactable": true
+  },
+  {
+    "id": 62,
+    "type": "button",
+    "label": "Terms",
+    "bbox": [
+      769,
+      671,
+      40,
+      14
+    ],
+    "center": [
+      789,
+      678
+    ],
+    "interactable": true
+  },
+  {
+    "id": 63,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1875,
+      154,
+      20,
+      28
+    ],
+    "center": [
+      1885,
+      168
+    ],
+    "interactable": false
+  },
+  {
+    "id": 64,
+    "type": "unknown",
+    "label": "FREE",
+    "bbox": [
+      963,
+      153,
+      20,
+      28
+    ],
+    "center": [
+      973,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 65,
+    "type": "button",
+    "label": "Top",
+    "bbox": [
+      1504,
+      239,
+      30,
+      19
+    ],
+    "center": [
+      1519,
+      248
+    ],
+    "interactable": true
+  },
+  {
+    "id": 66,
+    "type": "button",
+    "label": "Top",
+    "bbox": [
+      402,
+      239,
+      30,
+      19
+    ],
+    "center": [
+      417,
+      248
+    ],
+    "interactable": true
+  },
+  {
+    "id": 67,
+    "type": "unknown",
+    "label": "Up",
+    "bbox": [
+      1140,
+      153,
+      20,
+      29
+    ],
+    "center": [
+      1150,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 68,
+    "type": "unknown",
+    "label": "Under",
+    "bbox": [
+      404,
+      154,
+      21,
+      28
+    ],
+    "center": [
+      414,
+      168
+    ],
+    "interactable": false
+  },
+  {
+    "id": 69,
+    "type": "button",
+    "label": "=",
+    "bbox": [
+      1427,
+      32,
+      28,
+      21
+    ],
+    "center": [
+      1441,
+      42
+    ],
+    "interactable": true
+  },
+  {
+    "id": 70,
+    "type": "button",
+    "label": "apply,",
+    "bbox": [
+      810,
+      672,
+      37,
+      16
+    ],
+    "center": [
+      828,
+      680
+    ],
+    "interactable": true
+  },
+  {
+    "id": 71,
+    "type": "button",
+    "label": "New",
+    "bbox": [
+      846,
+      88,
+      37,
+      16
+    ],
+    "center": [
+      864,
+      96
+    ],
+    "interactable": true
+  },
+  {
+    "id": 72,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      335,
+      561,
+      17,
+      35
+    ],
+    "center": [
+      343,
+      578
+    ],
+    "interactable": false
+  },
+  {
+    "id": 73,
+    "type": "input",
+    "label": "1 1 a",
+    "bbox": [
+      800,
+      161,
+      30,
+      20
+    ],
+    "center": [
+      815,
+      171
+    ],
+    "interactable": true
+  },
+  {
+    "id": 74,
+    "type": "input",
+    "label": "for",
+    "bbox": [
+      389,
+      749,
+      32,
+      19
+    ],
+    "center": [
+      405,
+      758
+    ],
+    "interactable": true
+  },
+  {
+    "id": 75,
+    "type": "button",
+    "label": "EN~",
+    "bbox": [
+      1458,
+      33,
+      38,
+      16
+    ],
+    "center": [
+      1477,
+      41
+    ],
+    "interactable": true
+  },
+  {
+    "id": 76,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1689,
+      153,
+      21,
+      29
+    ],
+    "center": [
+      1699,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 77,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1665,
+      153,
+      21,
+      29
+    ],
+    "center": [
+      1675,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 78,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1507,
+      153,
+      21,
+      29
+    ],
+    "center": [
+      1517,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 79,
+    "type": "unknown",
+    "label": "60%",
+    "bbox": [
+      1260,
+      153,
+      21,
+      29
+    ],
+    "center": [
+      1270,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 80,
+    "type": "unknown",
+    "label": "60%",
+    "bbox": [
+      1236,
+      153,
+      21,
+      29
+    ],
+    "center": [
+      1246,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 81,
+    "type": "unknown",
+    "label": "7399",
+    "bbox": [
+      586,
+      153,
+      21,
+      29
+    ],
+    "center": [
+      596,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 82,
+    "type": "unknown",
+    "label": "7399",
+    "bbox": [
+      562,
+      153,
+      21,
+      29
+    ],
+    "center": [
+      572,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 83,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      1736,
+      80,
+      34,
+      18
+    ],
+    "center": [
+      1753,
+      89
+    ],
+    "interactable": true
+  },
+  {
+    "id": 84,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1641,
+      153,
+      22,
+      28
+    ],
+    "center": [
+      1652,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 85,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      1240,
+      551,
+      24,
+      26
+    ],
+    "center": [
+      1252,
+      564
+    ],
+    "interactable": true
+  },
+  {
+    "id": 86,
+    "type": "button",
+    "label": "Hello,",
+    "bbox": [
+      1519,
+      20,
+      39,
+      16
+    ],
+    "center": [
+      1538,
+      28
+    ],
+    "interactable": true
+  },
+  {
+    "id": 87,
+    "type": "button",
+    "label": "Lists",
+    "bbox": [
+      1611,
+      37,
+      42,
+      15
+    ],
+    "center": [
+      1632,
+      44
+    ],
+    "interactable": true
+  },
+  {
+    "id": 88,
+    "type": "button",
+    "label": "Cart",
+    "bbox": [
+      1840,
+      34,
+      38,
+      17
+    ],
+    "center": [
+      1859,
+      42
+    ],
+    "interactable": true
+  },
+  {
+    "id": 89,
+    "type": "button",
+    "label": "@",
+    "bbox": [
+      935,
+      521,
+      32,
+      21
+    ],
+    "center": [
+      951,
+      531
+    ],
+    "interactable": true
+  },
+  {
+    "id": 90,
+    "type": "button",
+    "label": "i",
+    "bbox": [
+      1696,
+      476,
+      48,
+      14
+    ],
+    "center": [
+      1720,
+      483
+    ],
+    "interactable": true
+  },
+  {
+    "id": 91,
+    "type": "button",
+    "label": "ial",
+    "bbox": [
+      1630,
+      466,
+      32,
+      21
+    ],
+    "center": [
+      1646,
+      476
+    ],
+    "interactable": true
+  },
+  {
+    "id": 92,
+    "type": "button",
+    "label": "Pay",
+    "bbox": [
+      1133,
+      87,
+      32,
+      21
+    ],
+    "center": [
+      1149,
+      97
+    ],
+    "interactable": true
+  },
+  {
+    "id": 93,
+    "type": "input",
+    "label": "music.\u201d",
+    "bbox": [
+      1306,
+      809,
+      46,
+      15
+    ],
+    "center": [
+      1329,
+      816
+    ],
+    "interactable": true
+  },
+  {
+    "id": 94,
+    "type": "input",
+    "label": "0%",
+    "bbox": [
+      1670,
+      749,
+      33,
+      21
+    ],
+    "center": [
+      1686,
+      759
+    ],
+    "interactable": true
+  },
+  {
+    "id": 95,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1339,
+      869,
+      18,
+      39
+    ],
+    "center": [
+      1348,
+      888
+    ],
+    "interactable": false
+  },
+  {
+    "id": 96,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1157,
+      579,
+      22,
+      32
+    ],
+    "center": [
+      1168,
+      595
+    ],
+    "interactable": false
+  },
+  {
+    "id": 97,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1400,
+      435,
+      13,
+      55
+    ],
+    "center": [
+      1406,
+      462
+    ],
+    "interactable": false
+  },
+  {
+    "id": 98,
+    "type": "button",
+    "label": "1 tlie ne tl",
+    "bbox": [
+      667,
+      367,
+      46,
+      16
+    ],
+    "center": [
+      690,
+      375
+    ],
+    "interactable": true
+  },
+  {
+    "id": 99,
+    "type": "button",
+    "label": "ohne",
+    "bbox": [
+      408,
+      394,
+      53,
+      14
+    ],
+    "center": [
+      434,
+      401
+    ],
+    "interactable": true
+  },
+  {
+    "id": 100,
+    "type": "button",
+    "label": "OO a",
+    "bbox": [
+      660,
+      438,
+      62,
+      12
+    ],
+    "center": [
+      691,
+      444
+    ],
+    "interactable": true
+  },
+  {
+    "id": 101,
+    "type": "button",
+    "label": "Video",
+    "bbox": [
+      228,
+      88,
+      47,
+      16
+    ],
+    "center": [
+      251,
+      96
+    ],
+    "interactable": true
+  },
+  {
+    "id": 102,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1209,
+      434,
+      18,
+      42
+    ],
+    "center": [
+      1218,
+      455
+    ],
+    "interactable": false
+  },
+  {
+    "id": 103,
+    "type": "unknown",
+    "label": "3",
+    "bbox": [
+      769,
+      151,
+      23,
+      33
+    ],
+    "center": [
+      780,
+      167
+    ],
+    "interactable": false
+  },
+  {
+    "id": 104,
+    "type": "button",
+    "label": "Fresh",
+    "bbox": [
+      99,
+      87,
+      45,
+      17
+    ],
+    "center": [
+      121,
+      95
+    ],
+    "interactable": true
+  },
+  {
+    "id": 105,
+    "type": "button",
+    "label": "700001",
+    "bbox": [
+      352,
+      18,
+      51,
+      15
+    ],
+    "center": [
+      377,
+      25
+    ],
+    "interactable": true
+  },
+  {
+    "id": 106,
+    "type": "input",
+    "label": "Trust",
+    "bbox": [
+      1163,
+      251,
+      43,
+      18
+    ],
+    "center": [
+      1184,
+      260
+    ],
+    "interactable": true
+  },
+  {
+    "id": 107,
+    "type": "button",
+    "label": "Kolkata",
+    "bbox": [
+      298,
+      18,
+      52,
+      15
+    ],
+    "center": [
+      324,
+      25
+    ],
+    "interactable": true
+  },
+  {
+    "id": 108,
+    "type": "button",
+    "label": "Deals",
+    "bbox": [
+      527,
+      87,
+      46,
+      17
+    ],
+    "center": [
+      550,
+      95
+    ],
+    "interactable": true
+  },
+  {
+    "id": 109,
+    "type": "button",
+    "label": "=)",
+    "bbox": [
+      1261,
+      554,
+      29,
+      27
+    ],
+    "center": [
+      1275,
+      567
+    ],
+    "interactable": true
+  },
+  {
+    "id": 110,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      105,
+      489,
+      13,
+      61
+    ],
+    "center": [
+      111,
+      519
+    ],
+    "interactable": false
+  },
+  {
+    "id": 111,
+    "type": "button",
+    "label": "Prime",
+    "bbox": [
+      984,
+      87,
+      47,
+      17
+    ],
+    "center": [
+      1007,
+      95
+    ],
+    "interactable": true
+  },
+  {
+    "id": 112,
+    "type": "button",
+    "label": "Prime",
+    "bbox": [
+      178,
+      87,
+      47,
+      17
+    ],
+    "center": [
+      201,
+      95
+    ],
+    "interactable": true
+  },
+  {
+    "id": 113,
+    "type": "button",
+    "label": "Returns",
+    "bbox": [
+      1693,
+      17,
+      54,
+      15
+    ],
+    "center": [
+      1720,
+      24
+    ],
+    "interactable": true
+  },
+  {
+    "id": 114,
+    "type": "button",
+    "label": "{fT",
+    "bbox": [
+      1343,
+      153,
+      29,
+      28
+    ],
+    "center": [
+      1357,
+      167
+    ],
+    "interactable": true
+  },
+  {
+    "id": 115,
+    "type": "button",
+    "label": "Q",
+    "bbox": [
+      1354,
+      22,
+      28,
+      29
+    ],
+    "center": [
+      1368,
+      36
+    ],
+    "interactable": true
+  },
+  {
+    "id": 116,
+    "type": "input",
+    "label": "you",
+    "bbox": [
+      35,
+      782,
+      41,
+      20
+    ],
+    "center": [
+      55,
+      792
+    ],
+    "interactable": true
+  },
+  {
+    "id": 117,
+    "type": "button",
+    "label": "Latest",
+    "bbox": [
+      1581,
+      240,
+      52,
+      16
+    ],
+    "center": [
+      1607,
+      248
+    ],
+    "interactable": true
+  },
+  {
+    "id": 118,
+    "type": "button",
+    "label": "Latest",
+    "bbox": [
+      479,
+      240,
+      52,
+      16
+    ],
+    "center": [
+      505,
+      248
+    ],
+    "interactable": true
+  },
+  {
+    "id": 119,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      1469,
+      889,
+      51,
+      17
+    ],
+    "center": [
+      1494,
+      897
+    ],
+    "interactable": true
+  },
+  {
+    "id": 120,
+    "type": "button",
+    "label": "~",
+    "bbox": [
+      427,
+      463,
+      34,
+      26
+    ],
+    "center": [
+      444,
+      476
+    ],
+    "interactable": true
+  },
+  {
+    "id": 121,
+    "type": "button",
+    "label": "trends",
+    "bbox": [
+      1580,
+      262,
+      56,
+      16
+    ],
+    "center": [
+      1608,
+      270
+    ],
+    "interactable": true
+  },
+  {
+    "id": 122,
+    "type": "button",
+    "label": "trends",
+    "bbox": [
+      478,
+      262,
+      56,
+      16
+    ],
+    "center": [
+      506,
+      270
+    ],
+    "interactable": true
+  },
+  {
+    "id": 123,
+    "type": "button",
+    "label": "ee",
+    "bbox": [
+      399,
+      439,
+      39,
+      23
+    ],
+    "center": [
+      418,
+      450
+    ],
+    "interactable": true
+  },
+  {
+    "id": 124,
+    "type": "button",
+    "label": ": . e",
+    "bbox": [
+      1684,
+      454,
+      36,
+      25
+    ],
+    "center": [
+      1702,
+      466
+    ],
+    "interactable": true
+  },
+  {
+    "id": 125,
+    "type": "unknown",
+    "label": "j",
+    "bbox": [
+      356,
+      861,
+      22,
+      41
+    ],
+    "center": [
+      367,
+      881
+    ],
+    "interactable": false
+  },
+  {
+    "id": 126,
+    "type": "input",
+    "label": "Unlimited",
+    "bbox": [
+      1234,
+      624,
+      66,
+      14
+    ],
+    "center": [
+      1267,
+      631
+    ],
+    "interactable": true
+  },
+  {
+    "id": 127,
+    "type": "button",
+    "label": "Unlimited",
+    "bbox": [
+      855,
+      264,
+      62,
+      15
+    ],
+    "center": [
+      886,
+      271
+    ],
+    "interactable": true
+  },
+  {
+    "id": 128,
+    "type": "input",
+    "label": "a",
+    "bbox": [
+      1189,
+      341,
+      52,
+      18
+    ],
+    "center": [
+      1215,
+      350
+    ],
+    "interactable": true
+  },
+  {
+    "id": 129,
+    "type": "button",
+    "label": "brands",
+    "bbox": [
+      1504,
+      262,
+      59,
+      16
+    ],
+    "center": [
+      1533,
+      270
+    ],
+    "interactable": true
+  },
+  {
+    "id": 130,
+    "type": "button",
+    "label": "brands",
+    "bbox": [
+      402,
+      262,
+      59,
+      16
+    ],
+    "center": [
+      431,
+      270
+    ],
+    "interactable": true
+  },
+  {
+    "id": 131,
+    "type": "input",
+    "label": "with Amazon",
+    "bbox": [
+      498,
+      646,
+      73,
+      13
+    ],
+    "center": [
+      534,
+      652
+    ],
+    "interactable": true
+  },
+  {
+    "id": 132,
+    "type": "input",
+    "label": "with Amazon",
+    "bbox": [
+      1233,
+      641,
+      73,
+      13
+    ],
+    "center": [
+      1269,
+      647
+    ],
+    "interactable": true
+  },
+  {
+    "id": 133,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      1679,
+      80,
+      53,
+      18
+    ],
+    "center": [
+      1705,
+      89
+    ],
+    "interactable": true
+  },
+  {
+    "id": 134,
+    "type": "button",
+    "label": "Is",
+    "bbox": [
+      100,
+      193,
+      29,
+      33
+    ],
+    "center": [
+      114,
+      209
+    ],
+    "interactable": true
+  },
+  {
+    "id": 135,
+    "type": "button",
+    "label": "Orders",
+    "bbox": [
+      1710,
+      34,
+      60,
+      16
+    ],
+    "center": [
+      1740,
+      42
+    ],
+    "interactable": true
+  },
+  {
+    "id": 136,
+    "type": "button",
+    "label": "|",
+    "bbox": [
+      1858,
+      324,
+      31,
+      32
+    ],
+    "center": [
+      1873,
+      340
+    ],
+    "interactable": true
+  },
+  {
+    "id": 137,
+    "type": "button",
+    "label": "Mobiles",
+    "bbox": [
+      596,
+      88,
+      62,
+      16
+    ],
+    "center": [
+      627,
+      96
+    ],
+    "interactable": true
+  },
+  {
+    "id": 138,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1125,
+      576,
+      27,
+      37
+    ],
+    "center": [
+      1138,
+      594
+    ],
+    "interactable": false
+  },
+  {
+    "id": 139,
+    "type": "input",
+    "label": "Unlimited",
+    "bbox": [
+      498,
+      628,
+      67,
+      15
+    ],
+    "center": [
+      531,
+      635
+    ],
+    "interactable": true
+  },
+  {
+    "id": 140,
+    "type": "input",
+    "label": "your",
+    "bbox": [
+      1117,
+      754,
+      51,
+      20
+    ],
+    "center": [
+      1142,
+      764
+    ],
+    "interactable": true
+  },
+  {
+    "id": 141,
+    "type": "input",
+    "label": "Unlimited",
+    "bbox": [
+      1600,
+      628,
+      68,
+      15
+    ],
+    "center": [
+      1634,
+      635
+    ],
+    "interactable": true
+  },
+  {
+    "id": 142,
+    "type": "button",
+    "label": "Service",
+    "bbox": [
+      762,
+      87,
+      60,
+      17
+    ],
+    "center": [
+      792,
+      95
+    ],
+    "interactable": true
+  },
+  {
+    "id": 143,
+    "type": "input",
+    "label": "cashback\u201d",
+    "bbox": [
+      590,
+      629,
+      74,
+      14
+    ],
+    "center": [
+      627,
+      636
+    ],
+    "interactable": true
+  },
+  {
+    "id": 144,
+    "type": "input",
+    "label": null,
+    "bbox": [
+      1285,
+      423,
+      51,
+      21
+    ],
+    "center": [
+      1310,
+      433
+    ],
+    "interactable": true
+  },
+  {
+    "id": 145,
+    "type": "button",
+    "label": "Fashion",
+    "bbox": [
+      1299,
+      87,
+      63,
+      17
+    ],
+    "center": [
+      1330,
+      95
+    ],
+    "interactable": true
+  },
+  {
+    "id": 146,
+    "type": "button",
+    "label": "Amazon",
+    "bbox": [
+      1063,
+      88,
+      67,
+      16
+    ],
+    "center": [
+      1096,
+      96
+    ],
+    "interactable": true
+  },
+  {
+    "id": 147,
+    "type": "input",
+    "label": "i",
+    "bbox": [
+      1714,
+      445,
+      60,
+      18
+    ],
+    "center": [
+      1744,
+      454
+    ],
+    "interactable": true
+  },
+  {
+    "id": 148,
+    "type": "input",
+    "label": "Search",
+    "bbox": [
+      508,
+      23,
+      60,
+      18
+    ],
+    "center": [
+      538,
+      32
+    ],
+    "interactable": true
+  },
+  {
+    "id": 149,
+    "type": "button",
+    "label": "Account",
+    "bbox": [
+      1518,
+      37,
+      73,
+      15
+    ],
+    "center": [
+      1554,
+      44
+    ],
+    "interactable": true
+  },
+  {
+    "id": 150,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      720,
+      660,
+      25,
+      44
+    ],
+    "center": [
+      732,
+      682
+    ],
+    "interactable": false
+  },
+  {
+    "id": 151,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      1701,
+      338,
+      62,
+      18
+    ],
+    "center": [
+      1732,
+      347
+    ],
+    "interactable": true
+  },
+  {
+    "id": 152,
+    "type": "button",
+    "label": "Pr ;",
+    "bbox": [
+      1573,
+      470,
+      56,
+      20
+    ],
+    "center": [
+      1601,
+      480
+    ],
+    "interactable": true
+  },
+  {
+    "id": 153,
+    "type": "input",
+    "label": "prici",
+    "bbox": [
+      1557,
+      749,
+      47,
+      24
+    ],
+    "center": [
+      1580,
+      761
+    ],
+    "interactable": true
+  },
+  {
+    "id": 154,
+    "type": "input",
+    "label": "smart",
+    "bbox": [
+      1173,
+      751,
+      63,
+      18
+    ],
+    "center": [
+      1204,
+      760
+    ],
+    "interactable": true
+  },
+  {
+    "id": 155,
+    "type": "input",
+    "label": "home",
+    "bbox": [
+      1242,
+      750,
+      60,
+      19
+    ],
+    "center": [
+      1272,
+      759
+    ],
+    "interactable": true
+  },
+  {
+    "id": 156,
+    "type": "button",
+    "label": "Jeans",
+    "bbox": [
+      1504,
+      200,
+      61,
+      19
+    ],
+    "center": [
+      1534,
+      209
+    ],
+    "interactable": true
+  },
+  {
+    "id": 157,
+    "type": "button",
+    "label": "Update",
+    "bbox": [
+      211,
+      35,
+      61,
+      19
+    ],
+    "center": [
+      241,
+      44
+    ],
+    "interactable": true
+  },
+  {
+    "id": 158,
+    "type": "button",
+    "label": "6:25",
+    "bbox": [
+      1044,
+      865,
+      49,
+      24
+    ],
+    "center": [
+      1068,
+      877
+    ],
+    "interactable": true
+  },
+  {
+    "id": 159,
+    "type": "input",
+    "label": "Voice",
+    "bbox": [
+      971,
+      749,
+      60,
+      20
+    ],
+    "center": [
+      1001,
+      759
+    ],
+    "interactable": true
+  },
+  {
+    "id": 160,
+    "type": "input",
+    "label": "\u201cAlexa, play",
+    "bbox": [
+      1234,
+      809,
+      71,
+      17
+    ],
+    "center": [
+      1269,
+      817
+    ],
+    "interactable": true
+  },
+  {
+    "id": 161,
+    "type": "input",
+    "label": "to",
+    "bbox": [
+      1190,
+      152,
+      38,
+      32
+    ],
+    "center": [
+      1209,
+      168
+    ],
+    "interactable": true
+  },
+  {
+    "id": 162,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      1521,
+      534,
+      47,
+      26
+    ],
+    "center": [
+      1544,
+      547
+    ],
+    "interactable": true
+  },
+  {
+    "id": 163,
+    "type": "button",
+    "label": "Releases",
+    "bbox": [
+      886,
+      87,
+      74,
+      17
+    ],
+    "center": [
+      923,
+      95
+    ],
+    "interactable": true
+  },
+  {
+    "id": 164,
+    "type": "input",
+    "label": "Amazon.",
+    "bbox": [
+      570,
+      24,
+      74,
+      17
+    ],
+    "center": [
+      607,
+      32
+    ],
+    "interactable": true
+  },
+  {
+    "id": 165,
+    "type": "button",
+    "label": "Today's",
+    "bbox": [
+      463,
+      87,
+      60,
+      21
+    ],
+    "center": [
+      493,
+      97
+    ],
+    "interactable": true
+  },
+  {
+    "id": 166,
+    "type": "input",
+    "label": "SINGH",
+    "bbox": [
+      1528,
+      77,
+      65,
+      20
+    ],
+    "center": [
+      1560,
+      87
+    ],
+    "interactable": true
+  },
+  {
+    "id": 167,
+    "type": "input",
+    "label": null,
+    "bbox": [
+      1541,
+      412,
+      55,
+      24
+    ],
+    "center": [
+      1568,
+      424
+    ],
+    "interactable": true
+  },
+  {
+    "id": 168,
+    "type": "button",
+    "label": "music",
+    "bbox": [
+      855,
+      239,
+      63,
+      21
+    ],
+    "center": [
+      886,
+      249
+    ],
+    "interactable": true
+  },
+  {
+    "id": 169,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      296,
+      339,
+      17,
+      78
+    ],
+    "center": [
+      304,
+      378
+    ],
+    "interactable": false
+  },
+  {
+    "id": 170,
+    "type": "input",
+    "label": "| sega",
+    "bbox": [
+      1279,
+      395,
+      83,
+      16
+    ],
+    "center": [
+      1320,
+      403
+    ],
+    "interactable": true
+  },
+  {
+    "id": 171,
+    "type": "button",
+    "label": "Customer",
+    "bbox": [
+      681,
+      87,
+      79,
+      17
+    ],
+    "center": [
+      720,
+      95
+    ],
+    "interactable": true
+  },
+  {
+    "id": 172,
+    "type": "button",
+    "label": "music,",
+    "bbox": [
+      868,
+      200,
+      64,
+      21
+    ],
+    "center": [
+      900,
+      210
+    ],
+    "interactable": true
+  },
+  {
+    "id": 173,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1871,
+      621,
+      29,
+      47
+    ],
+    "center": [
+      1885,
+      644
+    ],
+    "interactable": false
+  },
+  {
+    "id": 174,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1891,
+      480,
+      10,
+      140
+    ],
+    "center": [
+      1896,
+      550
+    ],
+    "interactable": false
+  },
+  {
+    "id": 175,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1719,
+      104,
+      100,
+      14
+    ],
+    "center": [
+      1769,
+      111
+    ],
+    "interactable": false
+  },
+  {
+    "id": 176,
+    "type": "button",
+    "label": "Ag:",
+    "bbox": [
+      1734,
+      381,
+      36,
+      39
+    ],
+    "center": [
+      1752,
+      400
+    ],
+    "interactable": true
+  },
+  {
+    "id": 177,
+    "type": "button",
+    "label": "ee",
+    "bbox": [
+      1738,
+      491,
+      51,
+      28
+    ],
+    "center": [
+      1763,
+      505
+    ],
+    "interactable": true
+  },
+  {
+    "id": 178,
+    "type": "unknown",
+    "label": "3% cashback*",
+    "bbox": [
+      1301,
+      623,
+      96,
+      15
+    ],
+    "center": [
+      1349,
+      630
+    ],
+    "interactable": false
+  },
+  {
+    "id": 179,
+    "type": "button",
+    "label": "ad-free",
+    "bbox": [
+      938,
+      199,
+      72,
+      20
+    ],
+    "center": [
+      974,
+      209
+    ],
+    "interactable": true
+  },
+  {
+    "id": 180,
+    "type": "button",
+    "label": "Sarees",
+    "bbox": [
+      402,
+      199,
+      72,
+      20
+    ],
+    "center": [
+      438,
+      209
+    ],
+    "interactable": true
+  },
+  {
+    "id": 181,
+    "type": "input",
+    "label": "control",
+    "bbox": [
+      1036,
+      750,
+      76,
+      19
+    ],
+    "center": [
+      1074,
+      759
+    ],
+    "interactable": true
+  },
+  {
+    "id": 182,
+    "type": "input",
+    "label": "BABITA",
+    "bbox": [
+      1450,
+      78,
+      76,
+      19
+    ],
+    "center": [
+      1488,
+      87
+    ],
+    "interactable": true
+  },
+  {
+    "id": 183,
+    "type": "button",
+    "label": "rd \u2014",
+    "bbox": [
+      472,
+      384,
+      66,
+      22
+    ],
+    "center": [
+      505,
+      395
+    ],
+    "interactable": true
+  },
+  {
+    "id": 184,
+    "type": "unknown",
+    "label": "5% cashback*",
+    "bbox": [
+      1669,
+      628,
+      97,
+      15
+    ],
+    "center": [
+      1717,
+      635
+    ],
+    "interactable": false
+  },
+  {
+    "id": 185,
+    "type": "button",
+    "label": "Electronics",
+    "bbox": [
+      1189,
+      87,
+      86,
+      17
+    ],
+    "center": [
+      1232,
+      95
+    ],
+    "interactable": true
+  },
+  {
+    "id": 186,
+    "type": "button",
+    "label": "Bestsellers",
+    "bbox": [
+      352,
+      87,
+      87,
+      17
+    ],
+    "center": [
+      395,
+      95
+    ],
+    "interactable": true
+  },
+  {
+    "id": 187,
+    "type": "button",
+    "label": "' pey 7",
+    "bbox": [
+      1162,
+      624,
+      48,
+      31
+    ],
+    "center": [
+      1186,
+      639
+    ],
+    "interactable": true
+  },
+  {
+    "id": 188,
+    "type": "button",
+    "label": "Eten",
+    "bbox": [
+      1527,
+      629,
+      49,
+      31
+    ],
+    "center": [
+      1551,
+      644
+    ],
+    "interactable": true
+  },
+  {
+    "id": 189,
+    "type": "button",
+    "label": "pect",
+    "bbox": [
+      425,
+      629,
+      49,
+      31
+    ],
+    "center": [
+      449,
+      644
+    ],
+    "interactable": true
+  },
+  {
+    "id": 190,
+    "type": "button",
+    "label": "Ss",
+    "bbox": [
+      424,
+      504,
+      48,
+      32
+    ],
+    "center": [
+      448,
+      520
+    ],
+    "interactable": true
+  },
+  {
+    "id": 191,
+    "type": "input",
+    "label": "ey",
+    "bbox": [
+      1189,
+      354,
+      53,
+      29
+    ],
+    "center": [
+      1215,
+      368
+    ],
+    "interactable": true
+  },
+  {
+    "id": 192,
+    "type": "input",
+    "label": "devices",
+    "bbox": [
+      1250,
+      199,
+      77,
+      20
+    ],
+    "center": [
+      1288,
+      209
+    ],
+    "interactable": true
+  },
+  {
+    "id": 193,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1171,
+      437,
+      21,
+      74
+    ],
+    "center": [
+      1181,
+      474
+    ],
+    "interactable": false
+  },
+  {
+    "id": 194,
+    "type": "input",
+    "label": null,
+    "bbox": [
+      1130,
+      375,
+      40,
+      39
+    ],
+    "center": [
+      1150,
+      394
+    ],
+    "interactable": true
+  },
+  {
+    "id": 195,
+    "type": "button",
+    "label": ">",
+    "bbox": [
+      1767,
+      838,
+      59,
+      27
+    ],
+    "center": [
+      1796,
+      851
+    ],
+    "interactable": true
+  },
+  {
+    "id": 196,
+    "type": "button",
+    "label": "=",
+    "bbox": [
+      698,
+      463,
+      47,
+      34
+    ],
+    "center": [
+      721,
+      480
+    ],
+    "interactable": true
+  },
+  {
+    "id": 197,
+    "type": "button",
+    "label": "_\u2014 .",
+    "bbox": [
+      1677,
+      526,
+      71,
+      23
+    ],
+    "center": [
+      1712,
+      537
+    ],
+    "interactable": true
+  },
+  {
+    "id": 198,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      572,
+      646,
+      113,
+      15
+    ],
+    "center": [
+      628,
+      653
+    ],
+    "interactable": false
+  },
+  {
+    "id": 199,
+    "type": "input",
+    "label": "Devices",
+    "bbox": [
+      630,
+      749,
+      86,
+      20
+    ],
+    "center": [
+      673,
+      759
+    ],
+    "interactable": true
+  },
+  {
+    "id": 200,
+    "type": "input",
+    "label": "Fashion",
+    "bbox": [
+      298,
+      748,
+      86,
+      20
+    ],
+    "center": [
+      341,
+      758
+    ],
+    "interactable": true
+  },
+  {
+    "id": 201,
+    "type": "button",
+    "label": "Unlimited",
+    "bbox": [
+      770,
+      200,
+      92,
+      19
+    ],
+    "center": [
+      816,
+      209
+    ],
+    "interactable": true
+  },
+  {
+    "id": 202,
+    "type": "button",
+    "label": "= =",
+    "bbox": [
+      388,
+      561,
+      54,
+      33
+    ],
+    "center": [
+      415,
+      577
+    ],
+    "interactable": true
+  },
+  {
+    "id": 203,
+    "type": "input",
+    "label": "Up",
+    "bbox": [
+      1138,
+      151,
+      47,
+      38
+    ],
+    "center": [
+      1161,
+      170
+    ],
+    "interactable": true
+  },
+  {
+    "id": 204,
+    "type": "input",
+    "label": "off",
+    "bbox": [
+      1320,
+      151,
+      55,
+      33
+    ],
+    "center": [
+      1347,
+      167
+    ],
+    "interactable": true
+  },
+  {
+    "id": 205,
+    "type": "input",
+    "label": "Assured",
+    "bbox": [
+      1707,
+      748,
+      91,
+      20
+    ],
+    "center": [
+      1752,
+      758
+    ],
+    "interactable": true
+  },
+  {
+    "id": 206,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      1791,
+      17,
+      51,
+      36
+    ],
+    "center": [
+      1816,
+      35
+    ],
+    "interactable": true
+  },
+  {
+    "id": 207,
+    "type": "input",
+    "label": "Bestselli",
+    "bbox": [
+      504,
+      749,
+      92,
+      20
+    ],
+    "center": [
+      550,
+      759
+    ],
+    "interactable": true
+  },
+  {
+    "id": 208,
+    "type": "button",
+    "label": "84% off",
+    "bbox": [
+      209,
+      654,
+      64,
+      29
+    ],
+    "center": [
+      241,
+      668
+    ],
+    "interactable": true
+  },
+  {
+    "id": 209,
+    "type": "button",
+    "label": "19% off",
+    "bbox": [
+      209,
+      427,
+      64,
+      29
+    ],
+    "center": [
+      241,
+      441
+    ],
+    "interactable": true
+  },
+  {
+    "id": 210,
+    "type": "button",
+    "label": "56% off.",
+    "bbox": [
+      40,
+      654,
+      65,
+      29
+    ],
+    "center": [
+      72,
+      668
+    ],
+    "interactable": true
+  },
+  {
+    "id": 211,
+    "type": "button",
+    "label": "31% off,",
+    "bbox": [
+      40,
+      427,
+      65,
+      29
+    ],
+    "center": [
+      72,
+      441
+    ],
+    "interactable": true
+  },
+  {
+    "id": 212,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1545,
+      350,
+      37,
+      51
+    ],
+    "center": [
+      1563,
+      375
+    ],
+    "interactable": false
+  },
+  {
+    "id": 213,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1123,
+      650,
+      35,
+      54
+    ],
+    "center": [
+      1140,
+      677
+    ],
+    "interactable": false
+  },
+  {
+    "id": 214,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      1238,
+      548,
+      54,
+      36
+    ],
+    "center": [
+      1265,
+      566
+    ],
+    "interactable": true
+  },
+  {
+    "id": 215,
+    "type": "button",
+    "label": "~~",
+    "bbox": [
+      755,
+      482,
+      50,
+      39
+    ],
+    "center": [
+      780,
+      501
+    ],
+    "interactable": true
+  },
+  {
+    "id": 216,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1765,
+      550,
+      36,
+      55
+    ],
+    "center": [
+      1783,
+      577
+    ],
+    "interactable": false
+  },
+  {
+    "id": 217,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      102,
+      557,
+      33,
+      61
+    ],
+    "center": [
+      118,
+      587
+    ],
+    "interactable": false
+  },
+  {
+    "id": 218,
+    "type": "input",
+    "label": "Healthcare",
+    "bbox": [
+      1138,
+      200,
+      107,
+      19
+    ],
+    "center": [
+      1191,
+      209
+    ],
+    "interactable": true
+  },
+  {
+    "id": 219,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1410,
+      466,
+      21,
+      98
+    ],
+    "center": [
+      1420,
+      515
+    ],
+    "interactable": false
+  },
+  {
+    "id": 220,
+    "type": "input",
+    "label": "cashback",
+    "bbox": [
+      1439,
+      777,
+      104,
+      20
+    ],
+    "center": [
+      1491,
+      787
+    ],
+    "interactable": true
+  },
+  {
+    "id": 221,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1307,
+      641,
+      140,
+      15
+    ],
+    "center": [
+      1377,
+      648
+    ],
+    "interactable": false
+  },
+  {
+    "id": 222,
+    "type": "button",
+    "label": "dea",
+    "bbox": [
+      35,
+      193,
+      64,
+      33
+    ],
+    "center": [
+      67,
+      209
+    ],
+    "interactable": true
+  },
+  {
+    "id": 223,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1074,
+      340,
+      39,
+      56
+    ],
+    "center": [
+      1093,
+      368
+    ],
+    "interactable": false
+  },
+  {
+    "id": 224,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1074,
+      256,
+      39,
+      57
+    ],
+    "center": [
+      1093,
+      284
+    ],
+    "interactable": false
+  },
+  {
+    "id": 225,
+    "type": "unknown",
+    "label": "Customers\u2019",
+    "bbox": [
+      36,
+      749,
+      118,
+      19
+    ],
+    "center": [
+      95,
+      758
+    ],
+    "interactable": false
+  },
+  {
+    "id": 226,
+    "type": "input",
+    "label": "Wholesale",
+    "bbox": [
+      1438,
+      748,
+      113,
+      20
+    ],
+    "center": [
+      1494,
+      758
+    ],
+    "interactable": true
+  },
+  {
+    "id": 227,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      254,
+      302,
+      20,
+      115
+    ],
+    "center": [
+      264,
+      359
+    ],
+    "interactable": false
+  },
+  {
+    "id": 228,
+    "type": "unknown",
+    "label": "\"Alexa, set daily alarm",
+    "bbox": [
+      981,
+      809,
+      136,
+      17
+    ],
+    "center": [
+      1049,
+      817
+    ],
+    "interactable": false
+  },
+  {
+    "id": 229,
+    "type": "unknown",
+    "label": "ul",
+    "bbox": [
+      96,
+      260,
+      36,
+      65
+    ],
+    "center": [
+      114,
+      292
+    ],
+    "interactable": false
+  },
+  {
+    "id": 230,
+    "type": "input",
+    "label": "REPORTING",
+    "bbox": [
+      1463,
+      98,
+      118,
+      20
+    ],
+    "center": [
+      1522,
+      108
+    ],
+    "interactable": true
+  },
+  {
+    "id": 231,
+    "type": "button",
+    "label": "amazon",
+    "bbox": [
+      769,
+      243,
+      82,
+      30
+    ],
+    "center": [
+      810,
+      258
+    ],
+    "interactable": true
+  },
+  {
+    "id": 232,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      1424,
+      659,
+      56,
+      44
+    ],
+    "center": [
+      1452,
+      681
+    ],
+    "interactable": true
+  },
+  {
+    "id": 233,
+    "type": "unknown",
+    "label": "Most-Loved",
+    "bbox": [
+      165,
+      748,
+      126,
+      20
+    ],
+    "center": [
+      228,
+      758
+    ],
+    "interactable": false
+  },
+  {
+    "id": 234,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1074,
+      419,
+      39,
+      67
+    ],
+    "center": [
+      1093,
+      452
+    ],
+    "interactable": false
+  },
+  {
+    "id": 235,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1074,
+      167,
+      39,
+      67
+    ],
+    "center": [
+      1093,
+      200
+    ],
+    "interactable": false
+  },
+  {
+    "id": 236,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      388,
+      526,
+      71,
+      37
+    ],
+    "center": [
+      423,
+      544
+    ],
+    "interactable": true
+  },
+  {
+    "id": 237,
+    "type": "input",
+    "label": "60%",
+    "bbox": [
+      1234,
+      151,
+      81,
+      33
+    ],
+    "center": [
+      1274,
+      167
+    ],
+    "interactable": true
+  },
+  {
+    "id": 238,
+    "type": "button",
+    "label": "Y. %",
+    "bbox": [
+      794,
+      482,
+      69,
+      39
+    ],
+    "center": [
+      828,
+      501
+    ],
+    "interactable": true
+  },
+  {
+    "id": 239,
+    "type": "button",
+    "label": "Q",
+    "bbox": [
+      1340,
+      11,
+      55,
+      49
+    ],
+    "center": [
+      1367,
+      35
+    ],
+    "interactable": true
+  },
+  {
+    "id": 240,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      845,
+      521,
+      65,
+      42
+    ],
+    "center": [
+      877,
+      542
+    ],
+    "interactable": true
+  },
+  {
+    "id": 241,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      755,
+      493,
+      47,
+      59
+    ],
+    "center": [
+      778,
+      522
+    ],
+    "interactable": false
+  },
+  {
+    "id": 242,
+    "type": "unknown",
+    "label": "*T&C",
+    "bbox": [
+      388,
+      611,
+      30,
+      93
+    ],
+    "center": [
+      403,
+      657
+    ],
+    "interactable": false
+  },
+  {
+    "id": 243,
+    "type": "input",
+    "label": "FREE",
+    "bbox": [
+      940,
+      151,
+      89,
+      32
+    ],
+    "center": [
+      984,
+      167
+    ],
+    "interactable": true
+  },
+  {
+    "id": 244,
+    "type": "input",
+    "label": "+499",
+    "bbox": [
+      1619,
+      151,
+      93,
+      33
+    ],
+    "center": [
+      1665,
+      167
+    ],
+    "interactable": true
+  },
+  {
+    "id": 245,
+    "type": "input",
+    "label": "+399",
+    "bbox": [
+      516,
+      151,
+      93,
+      33
+    ],
+    "center": [
+      562,
+      167
+    ],
+    "interactable": true
+  },
+  {
+    "id": 246,
+    "type": "input",
+    "label": "A v",
+    "bbox": [
+      433,
+      11,
+      63,
+      49
+    ],
+    "center": [
+      464,
+      35
+    ],
+    "interactable": true
+  },
+  {
+    "id": 247,
+    "type": "button",
+    "label": "Shop",
+    "bbox": [
+      34,
+      151,
+      90,
+      38
+    ],
+    "center": [
+      79,
+      170
+    ],
+    "interactable": true
+  },
+  {
+    "id": 248,
+    "type": "input",
+    "label": "HEALTH y TS",
+    "bbox": [
+      1219,
+      244,
+      127,
+      27
+    ],
+    "center": [
+      1282,
+      257
+    ],
+    "interactable": true
+  },
+  {
+    "id": 249,
+    "type": "unknown",
+    "label": "Amazon Pay ICICI Bank with credit card",
+    "bbox": [
+      1600,
+      646,
+      216,
+      16
+    ],
+    "center": [
+      1708,
+      654
+    ],
+    "interactable": false
+  },
+  {
+    "id": 250,
+    "type": "button",
+    "label": "Under",
+    "bbox": [
+      1505,
+      151,
+      109,
+      33
+    ],
+    "center": [
+      1559,
+      167
+    ],
+    "interactable": true
+  },
+  {
+    "id": 251,
+    "type": "input",
+    "label": "Under",
+    "bbox": [
+      402,
+      151,
+      109,
+      33
+    ],
+    "center": [
+      456,
+      167
+    ],
+    "interactable": true
+  },
+  {
+    "id": 252,
+    "type": "button",
+    "label": "~~",
+    "bbox": [
+      849,
+      482,
+      102,
+      39
+    ],
+    "center": [
+      900,
+      501
+    ],
+    "interactable": true
+  },
+  {
+    "id": 253,
+    "type": "input",
+    "label": null,
+    "bbox": [
+      559,
+      865,
+      96,
+      43
+    ],
+    "center": [
+      607,
+      886
+    ],
+    "interactable": true
+  },
+  {
+    "id": 254,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1344,
+      441,
+      36,
+      115
+    ],
+    "center": [
+      1362,
+      498
+    ],
+    "interactable": false
+  },
+  {
+    "id": 255,
+    "type": "button",
+    "label": "Gia",
+    "bbox": [
+      211,
+      18,
+      133,
+      33
+    ],
+    "center": [
+      277,
+      34
+    ],
+    "interactable": true
+  },
+  {
+    "id": 256,
+    "type": "unknown",
+    "label": "j",
+    "bbox": [
+      331,
+      822,
+      53,
+      83
+    ],
+    "center": [
+      357,
+      863
+    ],
+    "interactable": false
+  },
+  {
+    "id": 257,
+    "type": "button",
+    "label": "months",
+    "bbox": [
+      798,
+      151,
+      136,
+      33
+    ],
+    "center": [
+      866,
+      167
+    ],
+    "interactable": true
+  },
+  {
+    "id": 258,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      477,
+      441,
+      184,
+      25
+    ],
+    "center": [
+      569,
+      453
+    ],
+    "interactable": false
+  },
+  {
+    "id": 259,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1233,
+      846,
+      84,
+      62
+    ],
+    "center": [
+      1275,
+      877
+    ],
+    "interactable": false
+  },
+  {
+    "id": 260,
+    "type": "unknown",
+    "label": "\u201cAlexa, play music",
+    "bbox": [
+      1199,
+      802,
+      187,
+      28
+    ],
+    "center": [
+      1292,
+      816
+    ],
+    "interactable": false
+  },
+  {
+    "id": 261,
+    "type": "button",
+    "label": "popular",
+    "bbox": [
+      130,
+      151,
+      138,
+      38
+    ],
+    "center": [
+      199,
+      170
+    ],
+    "interactable": true
+  },
+  {
+    "id": 262,
+    "type": "button",
+    "label": "amazon",
+    "bbox": [
+      23,
+      18,
+      122,
+      44
+    ],
+    "center": [
+      84,
+      40
+    ],
+    "interactable": true
+  },
+  {
+    "id": 263,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      6,
+      886,
+      247,
+      22
+    ],
+    "center": [
+      129,
+      897
+    ],
+    "interactable": false
+  },
+  {
+    "id": 264,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      755,
+      521,
+      89,
+      64
+    ],
+    "center": [
+      799,
+      553
+    ],
+    "interactable": false
+  },
+  {
+    "id": 265,
+    "type": "unknown",
+    "label": "\"Alexa, set daily alarm for Zam",
+    "bbox": [
+      979,
+      801,
+      196,
+      30
+    ],
+    "center": [
+      1077,
+      816
+    ],
+    "interactable": false
+  },
+  {
+    "id": 266,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1024,
+      522,
+      89,
+      67
+    ],
+    "center": [
+      1068,
+      555
+    ],
+    "interactable": false
+  },
+  {
+    "id": 267,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      452,
+      341,
+      256,
+      26
+    ],
+    "center": [
+      580,
+      354
+    ],
+    "interactable": false
+  },
+  {
+    "id": 268,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      935,
+      482,
+      171,
+      39
+    ],
+    "center": [
+      1020,
+      501
+    ],
+    "interactable": true
+  },
+  {
+    "id": 269,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      85,
+      529,
+      60,
+      114
+    ],
+    "center": [
+      115,
+      586
+    ],
+    "interactable": false
+  },
+  {
+    "id": 270,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1842,
+      357,
+      58,
+      122
+    ],
+    "center": [
+      1871,
+      418
+    ],
+    "interactable": false
+  },
+  {
+    "id": 271,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      934,
+      528,
+      88,
+      82
+    ],
+    "center": [
+      978,
+      569
+    ],
+    "interactable": false
+  },
+  {
+    "id": 272,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1024,
+      575,
+      89,
+      82
+    ],
+    "center": [
+      1068,
+      616
+    ],
+    "interactable": false
+  },
+  {
+    "id": 273,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      755,
+      571,
+      89,
+      82
+    ],
+    "center": [
+      799,
+      612
+    ],
+    "interactable": false
+  },
+  {
+    "id": 274,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      845,
+      549,
+      88,
+      83
+    ],
+    "center": [
+      889,
+      590
+    ],
+    "interactable": false
+  },
+  {
+    "id": 275,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1790,
+      811,
+      76,
+      97
+    ],
+    "center": [
+      1828,
+      859
+    ],
+    "interactable": false
+  },
+  {
+    "id": 276,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1572,
+      811,
+      76,
+      97
+    ],
+    "center": [
+      1610,
+      859
+    ],
+    "interactable": false
+  },
+  {
+    "id": 277,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      750,
+      858,
+      149,
+      50
+    ],
+    "center": [
+      824,
+      883
+    ],
+    "interactable": true
+  },
+  {
+    "id": 278,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      934,
+      560,
+      89,
+      86
+    ],
+    "center": [
+      978,
+      603
+    ],
+    "interactable": false
+  },
+  {
+    "id": 279,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1023,
+      539,
+      90,
+      86
+    ],
+    "center": [
+      1068,
+      582
+    ],
+    "interactable": false
+  },
+  {
+    "id": 280,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1858,
+      132,
+      42,
+      188
+    ],
+    "center": [
+      1879,
+      226
+    ],
+    "interactable": false
+  },
+  {
+    "id": 281,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      262,
+      547,
+      85,
+      93
+    ],
+    "center": [
+      304,
+      593
+    ],
+    "interactable": false
+  },
+  {
+    "id": 282,
+    "type": "input",
+    "label": null,
+    "bbox": [
+      1451,
+      861,
+      171,
+      47
+    ],
+    "center": [
+      1536,
+      884
+    ],
+    "interactable": true
+  },
+  {
+    "id": 283,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      1576,
+      353,
+      148,
+      55
+    ],
+    "center": [
+      1650,
+      380
+    ],
+    "interactable": true
+  },
+  {
+    "id": 284,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1264,
+      452,
+      89,
+      93
+    ],
+    "center": [
+      1308,
+      498
+    ],
+    "interactable": false
+  },
+  {
+    "id": 285,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1655,
+      811,
+      91,
+      97
+    ],
+    "center": [
+      1700,
+      859
+    ],
+    "interactable": false
+  },
+  {
+    "id": 286,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1009,
+      840,
+      130,
+      68
+    ],
+    "center": [
+      1074,
+      874
+    ],
+    "interactable": false
+  },
+  {
+    "id": 287,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1437,
+      811,
+      93,
+      97
+    ],
+    "center": [
+      1483,
+      859
+    ],
+    "interactable": false
+  },
+  {
+    "id": 288,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1705,
+      835,
+      128,
+      73
+    ],
+    "center": [
+      1769,
+      871
+    ],
+    "interactable": false
+  },
+  {
+    "id": 289,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1858,
+      480,
+      42,
+      224
+    ],
+    "center": [
+      1879,
+      592
+    ],
+    "interactable": false
+  },
+  {
+    "id": 290,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      475,
+      402,
+      249,
+      40
+    ],
+    "center": [
+      599,
+      422
+    ],
+    "interactable": false
+  },
+  {
+    "id": 291,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      553,
+      814,
+      109,
+      94
+    ],
+    "center": [
+      607,
+      861
+    ],
+    "interactable": false
+  },
+  {
+    "id": 292,
+    "type": "unknown",
+    "label": "*T&C apply",
+    "bbox": [
+      417,
+      669,
+      307,
+      35
+    ],
+    "center": [
+      570,
+      686
+    ],
+    "interactable": false
+  },
+  {
+    "id": 293,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      81,
+      481,
+      66,
+      164
+    ],
+    "center": [
+      114,
+      563
+    ],
+    "interactable": false
+  },
+  {
+    "id": 294,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1356,
+      437,
+      64,
+      178
+    ],
+    "center": [
+      1388,
+      526
+    ],
+    "interactable": false
+  },
+  {
+    "id": 295,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      741,
+      844,
+      182,
+      64
+    ],
+    "center": [
+      832,
+      876
+    ],
+    "interactable": false
+  },
+  {
+    "id": 296,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1586,
+      402,
+      197,
+      61
+    ],
+    "center": [
+      1684,
+      432
+    ],
+    "interactable": false
+  },
+  {
+    "id": 297,
+    "type": "button",
+    "label": null,
+    "bbox": [
+      444,
+      453,
+      251,
+      48
+    ],
+    "center": [
+      569,
+      477
+    ],
+    "interactable": true
+  },
+  {
+    "id": 298,
+    "type": "unknown",
+    "label": "ul",
+    "bbox": [
+      50,
+      320,
+      129,
+      96
+    ],
+    "center": [
+      114,
+      368
+    ],
+    "interactable": false
+  },
+  {
+    "id": 299,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1233,
+      444,
+      123,
+      104
+    ],
+    "center": [
+      1294,
+      496
+    ],
+    "interactable": false
+  },
+  {
+    "id": 300,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      244,
+      255,
+      79,
+      164
+    ],
+    "center": [
+      283,
+      337
+    ],
+    "interactable": false
+  },
+  {
+    "id": 301,
+    "type": "button",
+    "label": "i dbdelf adeeb Bibel adn\u201d",
+    "bbox": [
+      1622,
+      74,
+      278,
+      48
+    ],
+    "center": [
+      1761,
+      98
+    ],
+    "interactable": true
+  },
+  {
+    "id": 302,
+    "type": "button",
+    "label": ") ~ onmet \u2014\u2014",
+    "bbox": [
+      472,
+      509,
+      259,
+      58
+    ],
+    "center": [
+      601,
+      538
+    ],
+    "interactable": true
+  },
+  {
+    "id": 303,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      418,
+      601,
+      327,
+      46
+    ],
+    "center": [
+      581,
+      624
+    ],
+    "interactable": false
+  },
+  {
+    "id": 304,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      401,
+      621,
+      330,
+      47
+    ],
+    "center": [
+      566,
+      644
+    ],
+    "interactable": false
+  },
+  {
+    "id": 305,
+    "type": "unknown",
+    "label": "Unlimited 5% cashback* Amazon Pay ICICI Bank with credit card",
+    "bbox": [
+      1503,
+      621,
+      331,
+      47
+    ],
+    "center": [
+      1668,
+      644
+    ],
+    "interactable": false
+  },
+  {
+    "id": 306,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1368,
+      461,
+      112,
+      155
+    ],
+    "center": [
+      1424,
+      538
+    ],
+    "interactable": false
+  },
+  {
+    "id": 307,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      755,
+      522,
+      179,
+      98
+    ],
+    "center": [
+      844,
+      571
+    ],
+    "interactable": false
+  },
+  {
+    "id": 308,
+    "type": "unknown",
+    "label": "ul",
+    "bbox": [
+      48,
+      255,
+      133,
+      164
+    ],
+    "center": [
+      114,
+      337
+    ],
+    "interactable": false
+  },
+  {
+    "id": 309,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      213,
+      482,
+      141,
+      162
+    ],
+    "center": [
+      283,
+      563
+    ],
+    "interactable": false
+  },
+  {
+    "id": 310,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      423,
+      526,
+      322,
+      76
+    ],
+    "center": [
+      584,
+      564
+    ],
+    "interactable": false
+  },
+  {
+    "id": 311,
+    "type": "container",
+    "label": "\"Alexa, set daily alarm for Zam",
+    "bbox": [
+      970,
+      784,
+      210,
+      124
+    ],
+    "center": [
+      1075,
+      846
+    ],
+    "interactable": false
+  },
+  {
+    "id": 312,
+    "type": "container",
+    "label": "\u201cAlexa, play music",
+    "bbox": [
+      1187,
+      784,
+      211,
+      124
+    ],
+    "center": [
+      1292,
+      846
+    ],
+    "interactable": false
+  },
+  {
+    "id": 313,
+    "type": "container",
+    "label": null,
+    "bbox": [
+      720,
+      784,
+      211,
+      124
+    ],
+    "center": [
+      825,
+      846
+    ],
+    "interactable": false
+  },
+  {
+    "id": 314,
+    "type": "container",
+    "label": null,
+    "bbox": [
+      502,
+      784,
+      211,
+      124
+    ],
+    "center": [
+      607,
+      846
+    ],
+    "interactable": false
+  },
+  {
+    "id": 315,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1194,
+      460,
+      195,
+      156
+    ],
+    "center": [
+      1291,
+      538
+    ],
+    "interactable": false
+  },
+  {
+    "id": 316,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      204,
+      246,
+      158,
+      215
+    ],
+    "center": [
+      283,
+      353
+    ],
+    "interactable": false
+  },
+  {
+    "id": 317,
+    "type": "unknown",
+    "label": "ul",
+    "bbox": [
+      35,
+      246,
+      158,
+      215
+    ],
+    "center": [
+      114,
+      353
+    ],
+    "interactable": false
+  },
+  {
+    "id": 318,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      204,
+      472,
+      158,
+      216
+    ],
+    "center": [
+      283,
+      580
+    ],
+    "interactable": false
+  },
+  {
+    "id": 319,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      35,
+      472,
+      158,
+      216
+    ],
+    "center": [
+      114,
+      580
+    ],
+    "interactable": false
+  },
+  {
+    "id": 320,
+    "type": "container",
+    "label": null,
+    "bbox": [
+      1528,
+      486,
+      286,
+      134
+    ],
+    "center": [
+      1671,
+      553
+    ],
+    "interactable": false
+  },
+  {
+    "id": 321,
+    "type": "unknown",
+    "label": null,
+    "bbox": [
+      1190,
+      403,
+      198,
+      205
+    ],
+    "center": [
+      1289,
+      505
+    ],
+    "interactable": false
+  },
+  {
+    "id": 322,
+    "type": "unknown",
+    "label": "Search Amazon.in",
+    "bbox": [
+      499,
+      11,
+      840,
+      49
+    ],
+    "center": [
+      919,
+      35
+    ],
+    "interactable": false
+  },
+  {
+    "id": 323,
+    "type": "container",
+    "label": "Terms apply,",
+    "bbox": [
+      755,
+      581,
+      358,
+      123
+    ],
+    "center": [
+      934,
+      642
+    ],
+    "interactable": false
+  },
+  {
+    "id": 324,
+    "type": "container",
+    "label": "Voice control home smart > your \"Alexa, set daily alarm for Zam \u201cAlexa, play music",
+    "bbox": [
+      954,
+      727,
+      461,
+      181
+    ],
+    "center": [
+      1184,
+      817
+    ],
+    "interactable": false
+  },
+  {
+    "id": 325,
+    "type": "container",
+    "label": "Wholesale pricing 10% Assured > + cashback",
+    "bbox": [
+      1421,
+      727,
+      462,
+      181
+    ],
+    "center": [
+      1652,
+      817
+    ],
+    "interactable": false
+  },
+  {
+    "id": 326,
+    "type": "container",
+    "label": "Bestselling Devices >",
+    "bbox": [
+      486,
+      727,
+      462,
+      181
+    ],
+    "center": [
+      717,
+      817
+    ],
+    "interactable": false
+  },
+  {
+    "id": 327,
+    "type": "container",
+    "label": "Customers\u2019 Most-Loved Fashion for > you j",
+    "bbox": [
+      0,
+      727,
+      480,
+      181
+    ],
+    "center": [
+      240,
+      817
+    ],
+    "interactable": false
+  },
+  {
+    "id": 328,
+    "type": "container",
+    "label": "7399 Under Sarees _| Top Latest | brands trends",
+    "bbox": [
+      388,
+      132,
+      357,
+      331
+    ],
+    "center": [
+      566,
+      297
+    ],
+    "interactable": false
+  },
+  {
+    "id": 329,
+    "type": "container",
+    "label": "Unlimited 5% cashback* Amazon Pay ICICI Bank with credit card",
+    "bbox": [
+      1501,
+      315,
+      335,
+      356
+    ],
+    "center": [
+      1668,
+      493
+    ],
+    "interactable": false
+  },
+  {
+    "id": 330,
+    "type": "container",
+    "label": "3 months FREE Unlimited music, ad-free music amazon 7 Unlimited",
+    "bbox": [
+      755,
+      132,
+      358,
+      446
+    ],
+    "center": [
+      934,
+      355
+    ],
+    "interactable": false
+  },
+  {
+    "id": 331,
+    "type": "container",
+    "label": "Up 60% off to Healthcare devices DrTrust",
+    "bbox": [
+      1123,
+      132,
+      357,
+      484
+    ],
+    "center": [
+      1301,
+      374
+    ],
+    "interactable": false
+  },
+  {
+    "id": 332,
+    "type": "container",
+    "label": "Unlimited 5% cashback* Amazon Pay ICICI Bank with credit card",
+    "bbox": [
+      1490,
+      132,
+      358,
+      572
+    ],
+    "center": [
+      1669,
+      418
+    ],
+    "interactable": false
+  },
+  {
+    "id": 333,
+    "type": "container",
+    "label": "Shop popular deals ul",
+    "bbox": [
+      20,
+      132,
+      358,
+      572
+    ],
+    "center": [
+      199,
+      418
+    ],
+    "interactable": false
+  },
+  {
+    "id": 334,
+    "type": "container",
+    "label": "7399 Under Sarees _| Top Latest | brands trends *T&C apply",
+    "bbox": [
+      386,
+      130,
+      361,
+      576
+    ],
+    "center": [
+      566,
+      418
+    ],
+    "interactable": false
+  },
+  {
+    "id": 335,
+    "type": "text",
+    "label": "in",
+    "bbox": [
+      1594,
+      24,
+      10,
+      8
+    ],
+    "center": [
+      1599,
+      28
+    ],
+    "interactable": false
+  },
+  {
+    "id": 336,
+    "type": "text",
+    "label": "in",
+    "bbox": [
+      152,
+      31,
+      11,
+      9
+    ],
+    "center": [
+      157,
+      35
+    ],
+    "interactable": false
+  },
+  {
+    "id": 337,
+    "type": "text",
+    "label": "~",
+    "bbox": [
+      1664,
+      44,
+      4,
+      4
+    ],
+    "center": [
+      1666,
+      46
+    ],
+    "interactable": false
+  },
+  {
+    "id": 338,
+    "type": "text",
+    "label": "&",
+    "bbox": [
+      1694,
+      36,
+      12,
+      13
+    ],
+    "center": [
+      1700,
+      42
+    ],
+    "interactable": false
+  }
+]

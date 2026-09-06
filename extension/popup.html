@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <style>
+    body {
+      width: 340px;
+      font-family: -apple-system, Segoe UI, Roboto, sans-serif;
+      margin: 0;
+      padding: 12px;
+      background: #0f172a;
+      color: #e2e8f0;
+    }
+    h1 {
+      font-size: 14px;
+      margin: 0 0 10px;
+      color: #f8fafc;
+    }
+    button {
+      width: 100%;
+      padding: 10px;
+      background: #2563eb;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+    button:disabled {
+      background: #475569;
+      cursor: default;
+    }
+    #status {
+      margin-top: 8px;
+      font-size: 12px;
+      color: #94a3b8;
+      min-height: 16px;
+    }
+    #status.error {
+      color: #f87171;
+    }
+    #results {
+      margin-top: 10px;
+      max-height: 280px;
+      overflow-y: auto;
+    }
+    .el {
+      padding: 6px 8px;
+      margin-bottom: 4px;
+      background: #1e293b;
+      border-radius: 4px;
+      font-size: 12px;
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+    }
+    .el .type {
+      color: #38bdf8;
+      font-weight: 600;
+      min-width: 55px;
+    }
+    .el .label {
+      flex: 1;
+      color: #e2e8f0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .el.interactable {
+      border-left: 3px solid #22c55e;
+    }
+    .el:not(.interactable) {
+      border-left: 3px solid #475569;
+      opacity: 0.7;
+    }
+  </style>
+</head>
+<body>
+  <h1>Agent Z — Visual Perception</h1>
+  <button id="captureBtn">Capture &amp; Analyze Page</button>
+  <div id="status"></div>
+  <div id="results"></div>
+
+  <div id="goalSection" style="margin-top:10px; display:none;">
+    <input id="goalInput" type="text" placeholder="e.g. click Sign Up"
+           style="width:100%; box-sizing:border-box; padding:8px; border-radius:6px; border:1px solid #334155; background:#1e293b; color:#e2e8f0; font-size:13px;" />
+    <button id="executeBtn" style="margin-top:6px; background:#16a34a;">Plan &amp; Execute</button>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
